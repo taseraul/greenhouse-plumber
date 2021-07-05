@@ -902,7 +902,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2CF2)
-    (at 415 192.5)
+    (at 402.38 121.23)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60F152F7)
@@ -938,7 +938,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2CE1)
-    (at 421 194)
+    (at 406.59 119.24)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60D1D16A)
@@ -1010,7 +1010,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2CBF)
-    (at 410.325 192.5)
+    (at 394.98 125.94)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60D1D2D3)
@@ -1082,7 +1082,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2C9D)
-    (at 413.825 219.5)
+    (at 410.63 108.48)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60D1D0CB)
@@ -1190,7 +1190,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2C6A)
-    (at 409.99 219.5)
+    (at 398.44 125.68)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60F0C70E)
@@ -1226,7 +1226,7 @@
   )
 
   (module Resistor_SMD:R_0402_1005Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60BC2C59)
-    (at 411.51 223.5)
+    (at 392.44 131.18)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60D1D2D9)
@@ -2058,7 +2058,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2AC3)
-    (at 405.5 149)
+    (at 372.91 142.85)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /61116568)
@@ -2099,7 +2099,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2AAE)
-    (at 400.5 149.5)
+    (at 388.76 132.8)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /6111655B)
@@ -2140,7 +2140,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2A99)
-    (at 420.5 185)
+    (at 406.4 113.46)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /60D1D140)
@@ -2181,7 +2181,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2A84)
-    (at 413.5 185.5)
+    (at 398.7 122.41)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /60D1D133)
@@ -2304,7 +2304,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2A45)
-    (at 417 211.5)
+    (at 384.31 137.35)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /60D1D0F8)
@@ -2345,7 +2345,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23 (layer F.Cu) (tedit 5A02FF57) (tstamp 60BC2A30)
-    (at 412.3 212)
+    (at 386.3 128.25)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /60D1D0EB)
@@ -3386,7 +3386,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2792)
-    (at 338 192.5)
+    (at 337.21 146.35)
     (descr SOD-123)
     (tags SOD-123)
     (path /610E64F4)
@@ -3430,7 +3430,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2779)
-    (at 332.5 192.5)
+    (at 349.11 146.12)
     (descr SOD-123)
     (tags SOD-123)
     (path /610E64EE)
@@ -3474,7 +3474,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2760)
-    (at 332.5 205.5)
+    (at 354.86 148.31)
     (descr SOD-123)
     (tags SOD-123)
     (path /610AC373)
@@ -3518,7 +3518,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2747)
-    (at 327.15 205.5)
+    (at 369.7 127.65)
     (descr SOD-123)
     (tags SOD-123)
     (path /610AC36D)
@@ -3562,7 +3562,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC272E)
-    (at 369 165.5)
+    (at 369.7 131)
     (descr SOD-123)
     (tags SOD-123)
     (path /610E64BF)
@@ -3606,7 +3606,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2715)
-    (at 363.35 165.5)
+    (at 389.15 117.26)
     (descr SOD-123)
     (tags SOD-123)
     (path /610E64B9)
@@ -3650,7 +3650,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC26FC)
-    (at 338 176)
+    (at 375.45 127.65)
     (descr SOD-123)
     (tags SOD-123)
     (path /610AC33E)
@@ -3694,7 +3694,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC26E3)
-    (at 332.5 176)
+    (at 343.36 146.12)
     (descr SOD-123)
     (tags SOD-123)
     (path /610AC338)
@@ -3738,7 +3738,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC26CA)
-    (at 374.5 177.5)
+    (at 381.2 127.65)
     (descr SOD-123)
     (tags SOD-123)
     (path /6111657D)
@@ -3782,7 +3782,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC26B1)
-    (at 369 177.5)
+    (at 360.61 148.31)
     (descr SOD-123)
     (tags SOD-123)
     (path /61116577)
@@ -3826,7 +3826,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2698)
-    (at 338.5 164)
+    (at 373.56 134.35)
     (descr SOD-123)
     (tags SOD-123)
     (path /60D1D155)
@@ -3870,7 +3870,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC267F)
-    (at 333 164)
+    (at 331.46 147.07)
     (descr SOD-123)
     (tags SOD-123)
     (path /60D1D14F)
@@ -3914,7 +3914,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2666)
-    (at 419 177.5)
+    (at 394.9 117.26)
     (descr SOD-123)
     (tags SOD-123)
     (path /61116548)
@@ -3958,7 +3958,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC264D)
-    (at 413.5 177.5)
+    (at 389.15 123.96)
     (descr SOD-123)
     (tags SOD-123)
     (path /61116542)
@@ -4002,7 +4002,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2634)
-    (at 416.5 205)
+    (at 412.71 96.45)
     (descr SOD-123)
     (tags SOD-123)
     (path /60D1D11F)
@@ -4046,7 +4046,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC261B)
-    (at 411 205)
+    (at 389.15 120.61)
     (descr SOD-123)
     (tags SOD-123)
     (path /60D1D119)
@@ -4090,7 +4090,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 60BC2602)
-    (at 240.5 133)
+    (at 375.45 131)
     (descr SOD-123)
     (tags SOD-123)
     (path /60D1CEB6)
